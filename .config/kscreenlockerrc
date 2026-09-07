@@ -1,0 +1,15 @@
+[Daemon]
+Autolock=false
+LockOnResume=false
+Timeout=0
+
+[Greeter]
+WallpaperPlugin=org.kde.image
+
+[Greeter][Wallpaper][org.kde.color][General]
+Color=0,0,0
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/kff/Pictures/wallpaper/flowers-1.png
+PreviewImage=null
+SlidePaths=/home/kff/.local/share/wallpapers/,/usr/share/wallpapers/
