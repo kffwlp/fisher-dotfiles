@@ -1,6 +1,9 @@
 # fisher-dotfiles
 Personal config files.
 
+Be careful! This repo contains things like my keybinds and personal settings.
+Don't accidentally overwrite your own!
+
 DE: KDE Plasma
 
 Applications:
@@ -8,6 +11,3 @@ Applications:
 - klassy
 - fastfetch
 - cava
-
-Be careful! This contains things like my keybinds and personal settings.
-Don't accidentally overwrite your own!
